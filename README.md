@@ -15,10 +15,10 @@
 - ✅ __SDK Integration__
 - ✅ __Optimization__
 
-## Interesting Projects 🧩
+## Projects 🧩
 
-- [Wool Coloring](https://github.com/ProtasovReps/wool-coloring.git)
 - [Robot Fighting](https://github.com/ProtasovReps/robot-fighting.git)
+- [Wool Coloring](https://github.com/ProtasovReps/wool-coloring.git)
 - [Dune IDLE](https://github.com/SoerPirate/Dune_IDLE.git)
 - [Fallout IDLE (Dune reskin)](https://github.com/SoerPirate/FalloutIDLE.git)
 
