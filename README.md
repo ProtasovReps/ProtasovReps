@@ -1,4 +1,19 @@
-## Hi there 👋
+## Stack 💡
+
+✅ Unity
+✅ C#
+✅ SOLID
+✅ GRASP
+✅ GoF
+✅ LINQ
+✅ MVX
+✅ UniRX/R3
+✅ UniTask
+✅ DOTween/LitMotion
+✅ Zenject/Reflex DI
+✅ UI
+✅ SDK Integration
+✅ Optimization
 
 <!--
 **ProtasovReps/ProtasovReps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
