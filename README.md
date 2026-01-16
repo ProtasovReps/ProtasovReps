@@ -1,19 +1,26 @@
 ## Stack 💡
 
-- ✅ Unity
-- ✅ C#
-- ✅ SOLID
-- ✅ GRASP
-- ✅ GoF
-- ✅ LINQ
-- ✅ MVX
-- ✅ UniRX/R3
-- ✅ UniTask
-- ✅ DOTween/LitMotion
-- ✅ Zenject/Reflex DI
-- ✅ UI
-- ✅ SDK Integration
-- ✅ Optimization
+- ✅ __Unity__
+- ✅ __C#__
+- ✅ __SOLID__
+- ✅ __GRASP__
+- ✅ __GoF__
+- ✅ __LINQ__
+- ✅ __MVX__
+- ✅ __UniRX/R3__
+- ✅ __UniTask__
+- ✅ __DOTween/LitMotion__
+- ✅ __Zenject/Reflex DI__
+- ✅ __UI__
+- ✅ __SDK Integration__
+- ✅ __Optimization__
+
+## Interesting Projects 🧩
+
+- [Wool Coloring](https://github.com/ProtasovReps/wool-coloring.git)
+- [Robot Fighting](https://github.com/ProtasovReps/robot-fighting.git)
+- [Dune IDLE](https://github.com/SoerPirate/Dune_IDLE.git)
+- [Fallout IDLE (Dune reskin)](https://github.com/SoerPirate/FalloutIDLE.git)
 
 <!--
 **ProtasovReps/ProtasovReps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
