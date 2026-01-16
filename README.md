@@ -17,10 +17,10 @@
 
 ## Projects 🧩
 
-- [Robot Fighting](https://github.com/ProtasovReps/robot-fighting.git)
-- [Wool Coloring](https://github.com/ProtasovReps/wool-coloring.git)
-- [Dune IDLE](https://github.com/SoerPirate/Dune_IDLE.git)
-- [Fallout IDLE (Dune reskin)](https://github.com/SoerPirate/FalloutIDLE.git)
+- [🤖Robot Fighting](https://github.com/ProtasovReps/robot-fighting.git)
+- [🧵Wool Coloring](https://github.com/ProtasovReps/wool-coloring.git)
+- [⌛Dune IDLE](https://github.com/SoerPirate/Dune_IDLE.git)
+- [⚛️Fallout IDLE (Dune reskin)](https://github.com/SoerPirate/FalloutIDLE.git)
 
 <!--
 **ProtasovReps/ProtasovReps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
