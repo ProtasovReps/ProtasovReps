@@ -1,3 +1,5 @@
+## Hi! 👋 I'm Konstantin, your game developer 😉
+
 ## Stack 💡
 
 - ✅ __Unity__
@@ -15,7 +17,7 @@
 - ✅ __SDK Integration__
 - ✅ __Optimization__
 
-## Projects 🧩
+## Projects 🕹️
 
 ### [🤖Robot Fighting](https://github.com/ProtasovReps/robot-fighting.git)
 ### [🧵Wool Coloring](https://github.com/ProtasovReps/wool-coloring.git)
