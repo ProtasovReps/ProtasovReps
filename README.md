@@ -13,6 +13,7 @@
 - ✅ __UniTask__
 - ✅ __DOTween/LitMotion__
 - ✅ __Zenject/Reflex DI__
+- ✅ __Addressables__
 - ✅ __UI__
 - ✅ __SDK Integration__
 - ✅ __Optimization__
